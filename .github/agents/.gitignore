@@ -1,0 +1,19 @@
+# Lokale oder private Agent-Varianten
+*.local.agent.md
+*.private.agent.md
+*.github\agents\*.agent.md
+
+# Temporäre Dateien und Backups
+*.tmp
+*.temp
+*.bak
+*.orig
+
+# Editor-Dateien
+*.swp
+*.swo
+Thumbs.db
+.DS_Store
+
+# Diese Datei selbst behalten
+!.gitignore
