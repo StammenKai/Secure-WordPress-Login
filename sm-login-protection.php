@@ -2,8 +2,8 @@
 /**
  * Plugin Name: SM Login Protection
  * Description: Schützt wp-login.php durch Rate Limiting (Brute-Force) und Custom Login URL.
- * Version:     1.0.0
- * Author:      stammenmedia
+ * Version:     1.0.1
+ * Author:      StammenMedia
  * License:     GPL-2.0-or-later
  * Text Domain: sm-login-protection
  *

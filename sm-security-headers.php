@@ -2,8 +2,8 @@
 /**
  * Plugin Name: SM Security Headers
  * Description: Setzt alle empfohlenen HTTP-Security-Header. CSP startet im Report-Only-Modus.
- * Version:     1.0.0
- * Author:      stammenmedia
+ * Version:     1.0.1
+ * Author:      StammenMedia
  * License:     GPL-2.0-or-later
  * Text Domain: sm-security-headers
  *
